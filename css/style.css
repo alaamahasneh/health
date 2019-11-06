@@ -1,0 +1,49 @@
+html{
+    background-color:#FFBBE4;
+}
+
+img {
+    width: 500px;
+    border-radius: 50%;
+}
+nav ul li a {
+    color: #4D9942;
+}
+nav ul li{
+    margin: 20px;
+    display: inline-block;
+}
+nav{
+    text-align: center;
+    background-color: #DDFFE9;
+}
+h1{
+    color: #4D9942;
+    text-align: center;
+    background-color: #DDFFE9;
+    
+}
+p{
+    color: #2E004A;
+    font-size: 1ch;
+}
+footer{
+    text-align: center;
+}
+#p1
+{
+    font-size: 2ch;
+    font-style: italic;
+
+}
+ #p3
+{
+    font-style: italic;
+    font-size: 2ch;
+
+}
+#p4
+{
+    font-style: italic;
+    font-size: 2ch;
+}
