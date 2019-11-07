@@ -23,13 +23,10 @@ document.write('<h3>'+greeting + ' ' + name +'</ h3>');
  }
 
  WriteGreet() ;
- 
-
-
-// Ask the user for the accomodation type
+ // Ask the user for the accomodation type
  var accomodation = prompt("healthy food or fast food?");
  while(accomodation != "healthy food" && accomodation != "fast food"){
-   accomodation = prompt("wrong answer! healthy food or fast food?");
+ accomodation = prompt("wrong answer! healthy food or fast food?");
  }
 
 
