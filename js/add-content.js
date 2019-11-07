@@ -55,6 +55,6 @@ document.write('<h3>'+greeting + ' ' + name +'</ h3>');
 
  // make a loop to repeat the picture
  for (var i=0; i<numOfImages; i+=1){
-   document.write(imgElement)
+   document.write(imgElement);
  }
 
