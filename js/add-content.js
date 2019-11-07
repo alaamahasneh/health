@@ -42,12 +42,6 @@ document.write('<h3>'+greeting + ' ' + name +'</ h3>');
  }
 
 
-
-
-
- 
-
-
  // ask the user for number of images
  var numOfImages = prompt("How many times you want the pic to be repeated?");
 
@@ -58,7 +52,7 @@ document.write('<h3>'+greeting + ' ' + name +'</ h3>');
 
  // Build the <img> element to add it to the page 
  var imgElement = '<img src="'+imageSource+'"/>';
- 
+
  // make a loop to repeat the picture
  for (var i=0; i<numOfImages; i+=1){
    document.write(imgElement)
